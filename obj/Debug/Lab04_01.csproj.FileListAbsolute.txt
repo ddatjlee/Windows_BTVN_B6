@@ -1,0 +1,57 @@
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.Form1.resources
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\Lab04_01.exe.config
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\Lab04_01.exe
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\Lab04_01.pdb
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.Up2Date
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.exe
+C:\Users\Administrator\source\repos\Lab04_01\Lab04_01\obj\Debug\Lab04_01.pdb
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\Lab04_01.exe.config
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\Lab04_01.exe
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\Lab04_01.pdb
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\EntityFramework.dll
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\EntityFramework.xml
+D:\LTWD\Lab04_01\Lab04_01\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.AssemblyReference.cache
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.Form1.resources
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.Properties.Resources.resources
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.GenerateResource.cache
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.CoreCompileInputs.cache
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.csproj.Up2Date
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.exe
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.pdb
+D:\LTWD\Lab04_01\Lab04_01\obj\Debug\Lab04_01.Lab04_02.resources
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.csproj.AssemblyReference.cache
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.Form1.resources
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.Properties.Resources.resources
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.csproj.GenerateResource.cache
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.csproj.CoreCompileInputs.cache
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.exe
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.pdb
+C:\Users\Phi Hung\Documents\Lab04_01\bin\Debug\Lab04_01.exe.config
+C:\Users\Phi Hung\Documents\Lab04_01\bin\Debug\Lab04_01.exe
+C:\Users\Phi Hung\Documents\Lab04_01\bin\Debug\Lab04_01.pdb
+C:\Users\Phi Hung\Documents\Lab04_01\bin\Debug\EntityFramework.xml
+C:\Users\Phi Hung\Documents\Lab04_01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phi Hung\Documents\Lab04_01\obj\Debug\Lab04_01.csproj.Up2Date
+C:\Users\Admin\Downloads\Lab04_01\bin\Debug\Lab04_01.exe.config
+C:\Users\Admin\Downloads\Lab04_01\bin\Debug\Lab04_01.exe
+C:\Users\Admin\Downloads\Lab04_01\bin\Debug\Lab04_01.pdb
+C:\Users\Admin\Downloads\Lab04_01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Lab04_01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.Form1.resources
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.csproj.Up2Date
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.exe
+C:\Users\Admin\Downloads\Lab04_01\obj\Debug\Lab04_01.pdb
